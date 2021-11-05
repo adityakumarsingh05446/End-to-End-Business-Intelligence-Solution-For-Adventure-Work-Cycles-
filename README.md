@@ -9,3 +9,5 @@
 
 ## Tools Used:
 DBMS, Excel, PostgreSQL , Data Modeling, DAX , and Power BI.
+
+## Video Sample:
